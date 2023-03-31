@@ -1,0 +1,12 @@
+body{
+background-color: rgb(176, 223, 201); 
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 80%;
+}
+header{
+    text-align: center;
+}
+.nombre_clase{
+color: rgb(235, 235, 186);
+
+}
